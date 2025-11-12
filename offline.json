@@ -1,0 +1,10 @@
+{
+	"arizona_pc": {
+		"status": false,
+		"info": "Технические работы на хостинге."
+	},
+	"arizona_mobile": {
+		"status": false,
+		"info": "Технические работы на хостинге."
+	}
+}

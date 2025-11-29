@@ -1,10 +1,10 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Переезд на новое оборудование."
 	},
 	"arizona_mobile": {
-		"status": true,
+		"status": false,
 		"info": "Переезд на новое оборудование."
 	}
 }
